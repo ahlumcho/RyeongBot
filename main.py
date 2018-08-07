@@ -1,1 +1,1 @@
-print('Hello world!!!!!!!!wow!!!! hello!!!simple is best!!!!')
+print("Hello world! i'm sexy ryong" )
